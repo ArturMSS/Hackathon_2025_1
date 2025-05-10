@@ -72,6 +72,8 @@ for pred in results['predictions']:
     print(f"✅ {pred['class']} - {pred['confidence']:.0f}%")
 ```
 
-
 ## 📜 Licença  
 MIT License - Consulte o arquivo [LICENSE](LICENSE) para detalhes.
+
+## Link Roboflow
+https://app.roboflow.com/processamento-de-imagem-aula/my-first-project-lzc3k/models/my-first-project-lzc3k/6
